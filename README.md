@@ -1,5 +1,22 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
+2️⃣ My second project while studying on the course "JavaScript + React". 
+React library. A basic level.
+Project "Posting"📬
+
+🎯 Tasks:
+1) Get to know the react
+2) Write your first tweeter-like app
+3) Introduce JSX preprocessor
+4) Modular structure, why is it needed in React.
+5) Properties and states of components. Events in React
+6) We create our own events and work with
+immunity
+7) Working with Forms in React
+
+
 ## Available Scripts
 
 In the project directory, you can run:
